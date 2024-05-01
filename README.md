@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohannd Greg and I'm a Full Stack Web Developer, from Gaza</h2>
+<h2 align="left">Hi 👋! My name is Mohannd Qraiq and I'm a Backend Developer</h2>
 
 ###
 
